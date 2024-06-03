@@ -30,11 +30,13 @@ Your app is ready to be deployed!
 ### screen shots:
 ![Screenshot 2024-02-09 004712](https://github.com/himanshumehlyan2501/ClimateDectector/assets/144013947/a0d1824a-e6a6-4d06-a933-62bb9811e334)
 
-![Screenshot 2024-02-09 004712](https://github.com/himanshumehlyan2501/ClimateDectector/assets/144013947/d9c88353-5a96-4f83-ad93-03f5e1c2302d)
+![Screenshot 2024-02-09 005127](https://github.com/himanshumehlyan2501/ClimateDectector/assets/144013947/ac189844-f087-48e3-9c12-2bd3a7171092)
+
 
 ![Screenshot 2024-02-09 005149](https://github.com/himanshumehlyan2501/ClimateDectector/assets/144013947/9a351365-0a67-4e8d-bc1b-520eec6522ac)
 
-[Screenshot 2024-02-09 005256](https://github.com/himanshumehlyan2501/ClimateDectector/assets/144013947/42d25aff-95e5-4030-8ee3-8c2de5b6977f)
+![Screenshot 2024-02-09 005256](https://github.com/himanshumehlyan2501/ClimateDectector/assets/144013947/5f9817cd-3aef-4c57-a2ba-4dd0f8541174)
+
 
 
 
